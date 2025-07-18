@@ -1,4 +1,4 @@
-# Website Without AI
+# Website With AI
 
 This project is a basic web application built using Python (Flask) and JavaScript. It provides a simple website structure in Arabic and uses artificial intelligence to summarize articles, write and expand them, or transcribe audio files and convert them to text. It then suggests keywords related to the article, all of which is done via Gemini AI. After suggesting keywords, it creates an image related to the article using the keywords using Dream Studio.
 
