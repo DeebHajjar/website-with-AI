@@ -11,7 +11,7 @@ This project is a basic web application built using Python (Flask) and JavaScrip
 
 ## Project Structure
 ```
-website-without-AI/
+website-with-AI/
 ├── app.py
 ├── utils.py
 ├── .env
